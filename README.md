@@ -48,7 +48,7 @@ pkg install curl jq -y
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/tiktrace.git
+git clone https://github.com/whoami592/Tiktok_Osint.git
 cd tiktrace
 chmod +x tiktrace.sh
 ```
